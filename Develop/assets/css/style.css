@@ -41,10 +41,6 @@ a {
     padding-left: 25px;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -54,8 +50,14 @@ p {
     background-position: center;
 }
 
-.images {
+/* Consolidated 3 sections into one */
+.content {
+    width: 75%;
+    display: inline-block;
     margin-left: 20px;
+}
+
+.content-box {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -63,28 +65,29 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     font-size: 36px;
-    width: 75%;
-    display: inline-block;
 }
 
-.images img {
+.content img {
     max-height: 200px;
 }
 
-.images-float-left {
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
     float: left;
     margin-right: 25px;
 }
 
-.images-float-left {
+.float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
@@ -146,13 +149,14 @@ p {
     max-width: 150px;
 }
 
-.footer {
+/* Renamed div class=footer to a simple tag named footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
