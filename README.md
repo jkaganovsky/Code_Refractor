@@ -8,9 +8,8 @@ In this homework, I immediately found a number of redundancies and multiple laye
 Hence, in order to make my html and css file more readable and accessible, I renamed most of the div tags and consolidated styles that were similar and grouped them together. This way, each tag is now with purpose and provides meaning.
 
 ## Links
-1. Original website
-1. Deployed website
-1. [GitHub website](https://jkaganovsky.github.io/Code_Refractor/)
+1. [GitHub Repository] (https://github.com/jkaganovsky/Code_Refractor)
+1. [Deployed website](https://jkaganovsky.github.io/Code_Refractor/)
 
 ## CSS and HTML Screenshot Comparisons
 1. Title
