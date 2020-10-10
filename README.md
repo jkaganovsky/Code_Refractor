@@ -25,15 +25,19 @@ Hence, in order to make my html and css file more readable and accessible, I ren
 
 1. Header
     * Original CSS
+
     ![original header](./Develop/screenshots/original-header-css.png)
 
     * Edited CSS
+
     ![edited header](./Develop/screenshots/edited-header-css.png)
 
     * Original HTML
+
     ![original header](./Develop/screenshots/original-header-html.png)
 
     * Edited HTML
+
     ![edited header](./Develop/screenshots/edited-header-html.png)
 
 1. Content
@@ -43,33 +47,42 @@ Hence, in order to make my html and css file more readable and accessible, I ren
     ![original content](./Develop/screenshots/original-content-css-02.png)
 
     * Edited CSS
+
     ![edited content](./Develop/screenshots/edited-content-css.png)
 
     * Original HTML
+
     ![original content](./Develop/screenshots/original-content-html.png)
 
     * Edited HTML
+
     ![edited content](./Develop/screenshots/edited-content-html.png)
 
 1. Benefits
     * Original CSS
+
     ![original benefits](./Develop/screenshots/original-benefits-css-01.png)
     ![original benefits 02](./Develop/screenshots/original-benefits-css-02.png)
 
     * Edited CSS
+
     ![edited content](./Develop/screenshots/edited-benefits-css.png)
 
     * Original HTML
+
     ![edited content](./Develop/screenshots/original-benefits-html.png)
 
     * Edited HTML
+
     ![edited content](./Develop/screenshots/edited-benefits-html.png)
 
 1. Footer
     * Original CSS
+
     ![original footer](./Develop/screenshots/original-footer-css.png)
 
     * Edited CSS
+
     ![edited footer](./Develop/screenshots/edited-footer-css.png)
 
 
