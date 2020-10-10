@@ -10,7 +10,7 @@ Hence, in order to make my html and css file more readable and accessible, I ren
 ## Links
 1. Original website
 1. Deployed website
-1. GitHub website
+1. [GitHub website](https://jkaganovsky.github.io/HW01_Code_Refractor/)
 
 ## CSS and HTML Screenshot Comparisons
 1. Title
