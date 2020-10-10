@@ -16,74 +16,74 @@ Hence, in order to make my html and css file more readable and accessible, I ren
 1. Title
     * Original HTML
 
-    ![original title](./Develop/screenshots/original-title-html.png)
+    ![original title](./assets/screenshots/original-title-html.png)
 
     * Edited HTML
 
-    ![edited title](./Develop/screenshots/edited-title-html.png)
+    ![edited title](./assets/screenshots/edited-title-html.png)
 
 
 1. Header
     * Original CSS
 
-    ![original header](./Develop/screenshots/original-header-css.png)
+    ![original header](./assets/screenshots/original-header-css.png)
 
     * Edited CSS
 
-    ![edited header](./Develop/screenshots/edited-header-css.png)
+    ![edited header](./assets/screenshots/edited-header-css.png)
 
     * Original HTML
 
-    ![original header](./Develop/screenshots/original-header-html.png)
+    ![original header](./assets/screenshots/original-header-html.png)
 
     * Edited HTML
 
-    ![edited header](./Develop/screenshots/edited-header-html.png)
+    ![edited header](./assets/screenshots/edited-header-html.png)
 
 1. Content
     * Original CSS
 
-    ![original content](./Develop/screenshots/original-content-css-01.png)
-    ![original content](./Develop/screenshots/original-content-css-02.png)
+    ![original content](./assets/screenshots/original-content-css-01.png)
+    ![original content](./assets/screenshots/original-content-css-02.png)
 
     * Edited CSS
 
-    ![edited content](./Develop/screenshots/edited-content-css.png)
+    ![edited content](./assets/screenshots/edited-content-css.png)
 
     * Original HTML
 
-    ![original content](./Develop/screenshots/original-content-html.png)
+    ![original content](./assets/screenshots/original-content-html.png)
 
     * Edited HTML
 
-    ![edited content](./Develop/screenshots/edited-content-html.png)
+    ![edited content](./assets/screenshots/edited-content-html.png)
 
 1. Benefits
     * Original CSS
 
-    ![original benefits](./Develop/screenshots/original-benefits-css-01.png)
-    ![original benefits 02](./Develop/screenshots/original-benefits-css-02.png)
+    ![original benefits](./assets/screenshots/original-benefits-css-01.png)
+    ![original benefits 02](./assets/screenshots/original-benefits-css-02.png)
 
     * Edited CSS
 
-    ![edited content](./Develop/screenshots/edited-benefits-css.png)
+    ![edited content](./assets/screenshots/edited-benefits-css.png)
 
     * Original HTML
 
-    ![edited content](./Develop/screenshots/original-benefits-html.png)
+    ![edited content](./assets/screenshots/original-benefits-html.png)
 
     * Edited HTML
 
-    ![edited content](./Develop/screenshots/edited-benefits-html.png)
+    ![edited content](./assets/screenshots/edited-benefits-html.png)
 
 1. Footer
     * Original CSS
 
-    ![original footer](./Develop/screenshots/original-footer-css.png)
+    ![original footer](./assets/screenshots/original-footer-css.png)
 
     * Edited CSS
 
-    ![edited footer](./Develop/screenshots/edited-footer-css.png)
+    ![edited footer](./assets/screenshots/edited-footer-css.png)
 
 
 ## Credits
