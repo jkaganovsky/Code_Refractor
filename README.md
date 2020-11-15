@@ -1,9 +1,7 @@
-# HW01_Code_Refractor
-
-## UW CODING BOOT CAMP HOMEWORK 01
+# Code_Refractor
 
 ## Summary
-In this homework, I immediately found a number of redundancies and multiple layers of code that were either repetitive or simply unnecessary.
+When reviewing the original framework provided, I immediately found a number of redundancies and multiple layers of code that were either repetitive or simply unnecessary.
 
 Hence, in order to make my html and css file more readable and accessible, I renamed most of the div tags and consolidated styles that were similar and grouped them together. This way, each tag is now with purpose and provides meaning.
 
